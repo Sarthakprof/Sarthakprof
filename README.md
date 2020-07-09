@@ -1,3 +1,5 @@
+![profile cover](sarthak.png)
+
 ### Hey Nerds 👋, I am Sarthak Srivastava from Bangalore, India
 
 - 🔭 I’m currently working on AWS and Java based Spring Boot APIs
