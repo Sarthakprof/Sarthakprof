@@ -1,4 +1,4 @@
-![profile cover](https://github.com/Sarthakprof/Sarthakprof/blob/master/sarthak.PNG)
+<!-- ![profile cover](https://github.com/Sarthakprof/Sarthakprof/blob/master/sarthak.PNG) -->
 
 ### What's up! 👋,Thank You for landing on my Github profile!
 ### I am Sarthak Srivastava, Software Engineer from Bangalore, India
