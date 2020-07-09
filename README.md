@@ -1,4 +1,4 @@
-![profile cover](sarthak.PNG)
+![profile cover](https://github.com/Sarthakprof/Sarthakprof/blob/master/sarthak.PNG)
 
 ### Hey Nerds 👋, I am Sarthak Srivastava from Bangalore, India
 
