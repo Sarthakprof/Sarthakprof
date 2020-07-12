@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Microsoft Azure and Python
 - 👯 I’m looking to collaborate on anything under Software Development Umbrella
 - 💬 Ask me about anything you like
-- 📫 How to reach me: @sarthak__tweets on Twitter, through my blog https://thewebspark.com
+- 📫 How to reach me: https://twitter.com/sarthak__tweets, through my blog https://thewebspark.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I will be sleeping if i am not on my laptop
+- ⚡ Fun fact: I will be sleeping/eating if i am not on my laptop
 
