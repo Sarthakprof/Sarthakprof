@@ -1,6 +1,6 @@
 <!-- ![profile cover](https://github.com/Sarthakprof/Sarthakprof/blob/master/sarthak.PNG) -->
 
-### What's up! 👋,Thank You for landing on my Github profile!
+### Hey!!👋 Thank You for landing on my Github profile! :D
 ### I am Sarthak Srivastava, Software Engineer from Bangalore, India
 
 - I’m currently working as Cloud & DevOps Engineer
